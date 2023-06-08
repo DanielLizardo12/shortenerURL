@@ -13,4 +13,5 @@ public class url {
     
     private Long id;
     private String url;
+    private String test;
 }
